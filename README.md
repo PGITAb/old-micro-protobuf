@@ -1,4 +1,4 @@
-> 老板的micro protobuf 编译工具代码
+> 老版的micro protobuf 编译工具代码
 
 # Go support for Protocol Buffers
 
