@@ -1,4 +1,4 @@
-> 老版的micro protobuf 编译工具代码
+> 老版的micro protobuf 编译工具代码，老版本库一删除，这里作下记录
 
 # Go support for Protocol Buffers
 
